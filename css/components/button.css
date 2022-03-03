@@ -1,0 +1,14 @@
+.btn-color {
+	background-color: darkgray;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'cursive;', serif;
+	margin-left: 100px;
+}
+
+.btn-color:hover {
+	background-color: green;
+	color: white;
+}
